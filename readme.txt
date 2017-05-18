@@ -4,3 +4,4 @@ hahahahahhahaha
 today is fineday# learngit
 
 
+bug has been fixed
