@@ -1,9 +1,4 @@
-my nama is why
-
-add a new line
-hahahahahhahaha
-today is fineday# learngit
-
-i am a new line
-m1
-d2
+ym nama is why
+dda a new line
+hahahahahhahaha111
+today is fineday# learngit222
